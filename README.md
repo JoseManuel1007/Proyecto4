@@ -6,7 +6,6 @@ En el repositorio se encuentran los siguientes archivos:
 
 - `Proyecto_4.ipynb`  
 - `Procesamiento_de_Imágenes_para_Sistemas_de_Energía_Eléctrica.pdf`  
-- `Procesamiento-de-Imagenes-para-Sistemas-de-Energia-Electrica.pptx`  
 
 El código puede ejecutarse directamente desde el repositorio en Google Colab.  
 Para que funcione correctamente, es necesario subir una imagen para la detección de arcos eléctricos en la celda 3 del notebook `Proyecto_4.ipynb`.
@@ -35,7 +34,6 @@ Para que funcione correctamente, es necesario subir una imagen para la detecció
 
 - `Proyecto_4.ipynb`  
 - `Procesamiento_de_Imágenes_para_Sistemas_de_Energía_Eléctrica.pdf`  
-- `Procesamiento-de-Imagenes-para-Sistemas-de-Energia-Electrica.pptx`
 
 
 
